@@ -1,0 +1,19 @@
+
+h2{
+	color: blue;;
+}
+.bg-custom {
+	background-color: #9c27b0 ;
+
+}
+.navbar .nav-item:hover .nav-link {
+	background-color: #FFFF00;
+	color: blue;
+	border-radius: 15px;
+}
+.navbar .my-sm-0{
+		color: rgb(0, 0, 0, 0);
+}
+btn btn-light my-2 my-sm-0{
+		color: 8A2BE2
+}
